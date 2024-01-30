@@ -1,6 +1,9 @@
 ### Hi there, I'm Evgenia. Welcome to my Github Profile 👋
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+I have recently immersed myself in the world of data analysis and understood that this is the trip I'd definitely love to continue 😍
+
 ## 📖 About me
 
 * 💻 I'm a full stack web developer
@@ -10,6 +13,7 @@
 * 🌐 You can see some of my projects on [my portfolio](https://github.com/zheniaDA/Portfolio)
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
