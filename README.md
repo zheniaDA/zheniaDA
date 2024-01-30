@@ -11,6 +11,7 @@ I have recently immersed myself in the world of data analysis and understood tha
 * 📱 I plan to take up Machine Learning in 2024
 * 🎓 I speak Russian, English and Italian
 * 🌐 You can see some of my projects in [my portfolio](https://github.com/zheniaDA/Portfolio)
+* ✍️ You can contact me via e-mail at vorobi3vaev@yandex.ru
 
 ### :hammer_and_wrench: Languages and Tools :
 
