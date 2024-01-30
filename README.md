@@ -10,7 +10,7 @@ I have recently immersed myself in the world of data analysis and understood tha
 * 🎨 I'm working on expanding my knowledge in statistics and visualization tools
 * 📱 I plan to take up Machine Learning in 2024
 * 🎓 I speak Russian, English and Italian
-* 🌐 You can see some of my projects on [my portfolio](https://github.com/zheniaDA/Portfolio)
+* 🌐 You can see some of my projects in [my portfolio](https://github.com/zheniaDA/Portfolio)
 
 ### :hammer_and_wrench: Languages and Tools :
 
