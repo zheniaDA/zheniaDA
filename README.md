@@ -6,10 +6,10 @@ I have recently immersed myself in the world of data analysis and understood tha
 
 ## 📖 About me
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 💻 I've completed a profound course in Data Analysis
+* 🎨 I'm working on expanding my knowledge in statistics and visualization tools
+* 📱 I plan to take up Machine Learning in 2024
+* 🎓 I speak Russian, English and Italian
 * 🌐 You can see some of my projects on [my portfolio](https://github.com/zheniaDA/Portfolio)
 
 ### :hammer_and_wrench: Languages and Tools :
