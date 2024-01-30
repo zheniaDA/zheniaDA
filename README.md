@@ -1,4 +1,4 @@
-### Hi there, I'm Evgenia. Welcome to my Github Profile 👋
+### Hi there, I'm Evgenia. Welcome to my GitHub Profile 👋
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
