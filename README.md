@@ -2,8 +2,6 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-I have recently immersed myself in the world of data analysis and understood that this is the trip I'd definitely love to continue 😍
-
 ## 📖 About me
 
 * 💻 I've completed a profound course in Data Analysis
