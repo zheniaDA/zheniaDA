@@ -4,7 +4,7 @@
 
 ## 📖 About me
 
-* 💻 I've completed a profound course in Data Analysis
+* 💻 I've completed a profound course in Data Analysis by Yandex
 * 🎨 I'm working on expanding my knowledge in statistics and visualization tools
 * 📱 I plan to take up Machine Learning in 2024
 * 🎓 I speak Russian, English and Italian
